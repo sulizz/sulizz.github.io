@@ -2386,6 +2386,7 @@ input, select, textarea {
 			position: relative;
 			vertical-align: top;
 			width: 48%;
+			
 		}
 
 			ul.feature-icons li:before {
@@ -2399,6 +2400,7 @@ input, select, textarea {
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
 				font-weight: 400;
+				
 			}
 
 			ul.feature-icons li:before {
@@ -2413,6 +2415,8 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 2.5em;
+				
+				
 			}
 
 /* Icons */
@@ -2421,15 +2425,18 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		
 	}
 
 		ul.icons li {
 			display: inline-block;
 			padding: 0 1em 0 0;
+			
 		}
 
 			ul.icons li:last-child {
 				padding-right: 0 !important;
+				
 			}
 
 			ul.icons li .icon:before {
